@@ -1,2 +1,2 @@
-# Basic-
+# Basic
 learn to code
